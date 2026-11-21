@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit>=1.50
+plotly
+sqlalchemy
+matplotlib
+seaborn
+scipy
+pymysql
+openpyxl
